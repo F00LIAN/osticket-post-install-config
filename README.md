@@ -92,9 +92,9 @@ Navigate to Admin Panel → Agents → Add New.
   
 Add two agents:
   
-- John Doe: Assign to SysAdmins and Online Banking Team. Grant Supreme Admin permissions. Set the password to Password123.
+- Jane Doe: Assign to SysAdmins and Online Banking Team. Grant Supreme Admin permissions. Set the password to Password123.
   
-- Jane Doe: Assign to Support Department with View-Only access. Set the password to Password123.
+- John Doe: Assign to Support Department with View-Only access. Set the password to Password123.
   
 </p>
 <br />
