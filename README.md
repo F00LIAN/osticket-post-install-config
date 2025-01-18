@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Post Installation Configuration of OS Ticket](https://www.youtube.com)
+- ### [YouTube: Post Installation Configuration of OS Ticket](https://www.youtube.com/watch?v=T6c-wOckNFE)
 
 <h2>Environments and Technologies Used</h2>
 
